@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetRegexReplacer", "DotNetRegexUtils\DotNetRegexUtils.csproj", "{166CDD30-642B-4082-A119-1B2F09D58E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetRegexReplacerTests", "DotNetRegexUtilsTests\DotNetRegexUtilsTests.csproj", "{1A161386-5FCD-4503-9461-42A01EBB034D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166CDD30-642B-4082-A119-1B2F09D58E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166CDD30-642B-4082-A119-1B2F09D58E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166CDD30-642B-4082-A119-1B2F09D58E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166CDD30-642B-4082-A119-1B2F09D58E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A161386-5FCD-4503-9461-42A01EBB034D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A161386-5FCD-4503-9461-42A01EBB034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A161386-5FCD-4503-9461-42A01EBB034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A161386-5FCD-4503-9461-42A01EBB034D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
